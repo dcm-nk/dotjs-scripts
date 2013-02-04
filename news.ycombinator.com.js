@@ -1,3 +1,6 @@
+// mostly taken from the awesome work by 
+// https://github.com/max/dotjs/blob/master/news.ycombinator.com.js
+
 $('table').css({
   width: '700px',
   background: 'none'
